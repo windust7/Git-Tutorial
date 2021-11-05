@@ -39,20 +39,3 @@ int main(void) {
 강조는 다음과 같이 할 수 있습니다.
 
 **파이썬** 이 ~~씨플러스~~ 보다 편하다
-
-- a
-- b
-    1. c
-    2. d
-> e
->> f
-
-```
-pip install -r requirements.txt
-```
-
-```python
-import numpy as np
-```
-
-$\sum_i^N \alpha * (b x c)$
