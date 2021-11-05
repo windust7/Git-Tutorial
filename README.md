@@ -46,3 +46,10 @@ int main(void) {
     2. d
 > e
 >> f
+```
+pip install -r requirements.txt
+```
+```python
+import numpy as np
+```
+
